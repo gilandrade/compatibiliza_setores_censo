@@ -1,0 +1,10 @@
+geopandas==1.1.1
+pandas==2.3.3
+numpy==2.3.4
+shapely==2.1.2
+pyogrio==0.12.1
+pyproj==3.7.2
+openpyxl==3.1.5
+requests==2.32.5
+jupyter==1.1.1
+nbconvert==7.16.6

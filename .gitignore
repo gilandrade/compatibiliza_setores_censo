@@ -1,0 +1,23 @@
+# Dados de entrada e saída
+input/
+output/
+
+# Ambiente Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# QGIS / SO
+*.qgz~
+Thumbs.db
+.DS_Store
+
+# Notas de planejamento pessoais
+PLAN.md
+
+# Mapas de conferência (gerados localmente, não versionados)
+docs/
